@@ -27,6 +27,22 @@ header h1 {
     height: 200px;
 }
 
+.coders {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: auto;
+}
+
+.coder {
+    width: 30%;
+    margin: 1.6%;
+}
+
+.coder img {
+    width: 100%;
+}
+
 footer {
     text-align: center;
 }
